@@ -1,14 +1,14 @@
 [
   {
-    "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Soccer Player Finder",
+    "live": "https://soccerplayerfinder.netlify.app",
+    "git": "https://github.com/yasermaly/Soccer-Info/tree/master",
+    "image": "https://i.imgur.com/DofRqy5.png"
   },
   {
-    "name": "project2",
-    "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Writer's Block",
+    "live": "https://blockwriters.herokuapp.com/",
+    "git": "https://github.com/yasermaly/Writer-s-Block",
+    "image": "https://i.imgur.com/8eLdiTW.png"
   }
 ]
